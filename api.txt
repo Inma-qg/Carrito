@@ -1,0 +1,30 @@
+{
+  "currency": "€",
+  "products": [
+    {
+      "SKU": "0K3QOS34FV",
+      "title": "Crema hidratante",
+      "price": "39.99"
+    },
+    {
+      "SKU": "TGD5XSDA1L",
+      "title": "Retinol",
+      "price": "49.99"
+    },
+    {
+      "SKU": "IASBQ9F3",
+      "title": "Contorno de ojos",
+      "price": "27.98"
+    },
+    {
+      "SKU": "JKKW9BQ956",
+      "title": "Vitamina C",
+      "price": "27.98"
+    },
+    {
+      "SKU": "QWKW9BQ978",
+      "title": "Crema solar",
+      "price": "17.98"
+    }
+  ]
+}
